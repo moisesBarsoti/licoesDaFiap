@@ -72,3 +72,14 @@ Lembre que essa distância é calculada como sendo a raiz quadradada de (x² + y
 BÔNUS (a): calcular distância entre dois pontos distintos
 
 BÔNUS (b): calcular distância entre dois pontos em 3D (isto é, pontos com coordenadas (x, y, z))
+
+
+Exercícios de Python -- if/else 26/03/2025
+Cada exercício é um programa que iremos escrever.
+
+Pergunte a idade do usuário (em anos). Imprima uma mensagem especial se ele já viveu mais do que 10 mil dias.
+
+Pergunte a temperatura em Fahrenheit. Imprima "está calor" se a temperatura equivale a mais de 25 graus Celsius.
+
+Pergunte a nota de um aluno em três atividades diferentes. Calcule a média entre as três.
+Imprima "aprovado" se a média for maior ou igual a 6, e "fará recuperação" caso contrário.
