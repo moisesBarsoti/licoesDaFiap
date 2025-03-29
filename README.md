@@ -2,7 +2,7 @@
  
 Olá, mundo! 👋
  
-Aqui ficam as minha lições de prática da FIAP:
+As minhas lições ficam em suas respectivas branchs.
 
 ## 🚀 Objetivos:
 
