@@ -2,7 +2,7 @@
  
 Olá, mundo! 👋
  
-## As minhas lições ficam em suas respectivas branchs.
+**As minhas lições ficam em suas respectivas branchs.**
 
 ## 🚀 Objetivos:
 
