@@ -1,28 +1,17 @@
-# 🚀 Repositório de lições da FIAP
+# 📝 Repositório de checkpoints da FIAP
  
-Olá, mundo! 👋
+Olá, mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">
  
-**As minhas lições ficam em suas respectivas branches.**
+**Os checkpoints ficam em suas respectivas branches.**
 
-## 🚀 Objetivos:
-
-Meu objetivo é continuar crescendo na área de TI, desenvolvendo soluções inovadoras e contribuindo para a eficiência e sucesso das empresas em que atuo.
-
-Estou sempre em busca de novos desafios e oportunidades de aprendizado, com o intuito de me tornar um profissional cada vez mais qualificado e versátil.
-
-## 🌱 Tecnologias que estou utilizando nas lições:
+## 🌱 Tecnologias que estamos utilizando nos Checkpoints:
  
-- HTML
-- CSS
-- JavaScript
+- Java 21
 - Git e GitHub
-- Python
-- Java
-
 
 ## 📚 O que você encontrará aqui?
  
-- 📝 Questionários da FIAP
+- 📝 Checkpoints de java da FIAP
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
  
