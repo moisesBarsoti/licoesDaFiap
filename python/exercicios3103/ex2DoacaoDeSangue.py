@@ -8,9 +8,13 @@ nomeDoDoador = input("Digite o seu nome: ");
 idadeDoDoador = int(input("Digite a sua idade: "));
 
 # Condição para doar sangue
-if idadeDoDoador >= 18 & idadeDoDoador <= 60:
+if idadeDoDoador >= 18 and idadeDoDoador <= 60:
     print(f"\n{nomeDoDoador} Pode doar sangue!\n");
-elif idadeDoDoador >= 16 & idadeDoDoador < 18:
-    print(f"\n{nomeDoDoador} tem autorização dos seus pais?\n");
+elif idadeDoDoador >= 16 and idadeDoDoador < 18:
+    resposta = input(f"\n{nomeDoDoador}, você tem autorização dos seus pais? (S/N): ").strip().upper()
+    if resposta == "S":
+        print(f"\n{nomeDoDoador}, pode doar sangue com a autorização dos seus pais!\n")
+    else:
+        print(f"\n{nomeDoDoador}, você não pode doar sangue sem autorizaçã");
 else:
     print(f"\n{nomeDoDoador} não pode doar sangue!\n");
