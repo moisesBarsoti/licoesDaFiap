@@ -1,6 +1,6 @@
 #  Repositório de lições da FIAP
  
-Olá, mundo! 👋
+Olá, mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">
  
 **As minhas lições ficam em suas respectivas branches.**
 
