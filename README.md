@@ -1,4 +1,4 @@
-# 🚀 Repositório de lições da FIAP
+# 🚀 Repositório de lições da FIAP de Java
  
 Olá, mundo! 👋
  
