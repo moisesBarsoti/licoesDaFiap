@@ -16,9 +16,6 @@ Meu objetivo é continuar evoluindo na área de Tecnologia da Informação (TI),
 
 Estas são as ferramentas e linguagens que aplico nas minhas lições:
 
-- **HTML**
-- **CSS**
-- **JavaScript**
 - **Git e GitHub**
 - **Python**
 - **Java**
