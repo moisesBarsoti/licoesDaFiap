@@ -17,8 +17,8 @@ Meu objetivo é continuar evoluindo na área de Tecnologia da Informação (TI),
 Estas são as ferramentas e linguagens que aplico nas minhas lições:
 
 - **Git e GitHub**
-- **Python**
-- **Java**
+- **Python (Última atualização: 07/05/25)**
+- **Java (Última atualização: 07/05/25)**
 
 ---
 
